@@ -12,3 +12,4 @@ class NumFactorial:
 
 somefact=NumFactorial(4)
 print(somefact.factorial())
+#my comment
