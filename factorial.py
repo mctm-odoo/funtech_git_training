@@ -12,4 +12,4 @@ class NumFactorial:
 
 somefact=NumFactorial(4)
 print(somefact.factorial())
-#Test, porfavor dioses de github que funcione
+#Test, porfavor dioses de github que funcioneeee
