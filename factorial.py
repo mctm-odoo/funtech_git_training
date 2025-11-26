@@ -5,7 +5,7 @@ class NumFactorial:
     def factorial(self):
         counter=self.number
         fact=1
-        while counter > 0
+        while counter > 0:
             fact *= counter
             counter -= 1
         return fact
@@ -13,3 +13,4 @@ class NumFactorial:
 somefact=NumFactorial(4)
 print(somefact.factorial())
 #Test, porfavor dioses de github que funcioneeee
+#Funciono el test, ahora si agregamos el : que falta
